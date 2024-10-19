@@ -1,6 +1,11 @@
 import React from 'react'
 
 const Cards = () => {
+  /**
+   * The Cards component is a simple component that displays  cards side by side.
+   * The component is responsive and uses flexbox to display the cards in a row.
+   * Tailwind CSS is used to style the cards.
+   */
   return (
     <section className='w-[100%] flex justify-center items-center gap-[1vh] flex-wrap'>
       {/* card 1  */}

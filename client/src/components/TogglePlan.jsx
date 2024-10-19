@@ -1,6 +1,11 @@
 import React, { useState } from 'react'
 
 const TogglePlan = () => {
+  /**
+   * The TogglePlan component is a simple component that allows the user to toggle between monthly and annual plans.
+   * The component uses the useState hook to manage the state of the toggle button.
+   * The component returns two buttons, one for monthly and one for annual plans.
+   */
     const [isMonthly,setIsMonthly] = useState(true);
     
   return (

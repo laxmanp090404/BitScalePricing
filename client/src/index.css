@@ -2,7 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-
+/* 
+The @layer directive allows you to define styles in a specific layer.
+The layers are: base, components, and utilities.
+Here we are defining the styles for the components layer.
+*/
 .inter {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
