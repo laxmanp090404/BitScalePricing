@@ -74,7 +74,7 @@ const Cards = () => {
             </div>
             <div className='flex gap-2'>
               {/* plan highlight2 */}
-                <div className='bg-[#ECFDF3] text-[#027A48] w-[90px] flex items-center justify-between px-[5px] py-[2px] rounded-[16px]'><img className='size-4' src='../src/assets/percent.png' alt='percent'/><span className='text-[12.47px]'>50% off</span></div>
+                <div className='bg-[#ECFDF3] text-[#027A48] w-[90px] flex items-center justify-between px-[5px] py-[2px] rounded-[16px]'><img className='size-4' src='/assets/percent.png' alt='percent'/><span className='text-[12.47px]'>50% off</span></div>
                 <div className='strikethrough text-[#6B7280] text-[21.38px] font-extrabold'>$459</div>
             </div>
           </div>
@@ -140,7 +140,7 @@ const Cards = () => {
             </div>
             <div className='flex gap-2'>
               {/* plan highlight2 */}
-                <div className='bg-[#ECFDF3] text-[#027A48] w-[90px] flex items-center justify-between px-[5px] py-[2px] rounded-[16px]'><img className='size-4' src='../src/assets/percent.png' alt='percent'/><span className='text-[12.47px]'>50% off</span></div>
+                <div className='bg-[#ECFDF3] text-[#027A48] w-[90px] flex items-center justify-between px-[5px] py-[2px] rounded-[16px]'><img className='size-4' src='/assets/percent.png' alt='percent'/><span className='text-[12.47px]'>50% off</span></div>
                 <div className='strikethrough  text-[21.38px] font-extrabold'>$999</div>
             </div>
           </div>
